@@ -20,19 +20,18 @@ I believe in **radical transparency** and "Building in Public". I share my wins,
 
 ---
 
-### 🎯 Quick Links & Expertise
-- **Founder of:** <a href="https://aimafia.substack.com/" target="_blank">La Mafia IA</a> (#2 AI Newsletter in Spain on Substack).
-- **Personal Web:** <a href="https://alexdc.com" target="_blank">alexdc.com</a> 
-- **Music:** <a href="https://www.domestika.org/es/courses/dj" target="_blank">DJ Course on Domestika</a> - Professional mixing & production.
-- **Philosophy:** make things happen
-
----
-
 ### 🚀 Featured Projects
 **Current Focus:**
 - [La Mafia IA](https://aimafia.substack.com/) 🤖 - **#1 Fastest Growing Tech Newsletter** in Spain. Curated AI resources for entrepreneurs.
 - **Mafia Labs S.l:** - Shipping AI to power entrepreneurs and Open-Source neural tech.
+- [Mafia IA hub](https://mafiaia.com/) ⚒️ - AI tools for makers
+
+---
+
+### 🎯 Quick Links & Expertise
 - [AlexDC.com](https://alexdc.com) 🧠 - My personal hub for "Build in Public".
+- **Music:** <a href="https://www.domestika.org/es/courses/dj" target="_blank">DJ Course on Domestika</a> - Professional mixing & production.
+- **Philosophy:** make things happen
 
 **Past Hits & History:**
 - [Tattoow](https://www.tattoow.com/) 🎨 - Online tattoo platform.
