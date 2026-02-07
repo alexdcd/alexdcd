@@ -6,7 +6,6 @@
 ![](https://img.shields.io/badge/-Next.js_Dev-000?style=flat-square&logo=next.js&logoColor=white)
 ![](https://img.shields.io/badge/-TensorFlow-e5cd0c?style=flat-square&logo=TensorFlow&logoColor=fff)
 ![](https://img.shields.io/badge/-Indie_Hacker-000?style=flat-square&logo=hackthebox&logoColor=white)
-<!-- Contador de visitas (Opcional, estilo VietAnh) -->
 <img src="https://komarev.com/ghpvc/?username=alexdc&label=Profile%20Viewers&color=0e75b6&style=flat">
 
 > **"Ship fast, fail faster, learn, repeat. Creating solutions to make better decisions."**
