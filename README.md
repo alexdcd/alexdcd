@@ -23,7 +23,7 @@ I believe in **radical transparency** and "Building in Public". I share my wins,
 
 ### 🎯 Quick Links & Expertise
 - **Founder of:** <a href="https://aimafia.substack.com/" target="_blank">La Mafia IA</a> (#2 AI Newsletter in Spain on Substack).
-- **Personal Web:** <a href="https://alexdc.com" target="_blank">alexdc.com</a> - My digital garden.
+- **Personal Web:** <a href="https://alexdc.com" target="_blank">alexdc.com</a> 
 - **Music:** <a href="https://www.domestika.org/es/courses/dj" target="_blank">DJ Course on Domestika</a> - Professional mixing & production.
 - **Philosophy:** make things happen
 
