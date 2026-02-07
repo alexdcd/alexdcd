@@ -31,6 +31,7 @@ I believe in **radical transparency** and "Building in Public". I share my wins,
 ### 🚀 Featured Projects
 **Current Focus:**
 - [La Mafia IA](https://aimafia.substack.com/) 🤖 - **#1 Fastest Growing Tech Newsletter** in Spain. Curated AI resources for entrepreneurs.
+- **Mafia Labs S.l:** - Shipping AI to power entrepreneurs and Open-Source neural tech.
 - [AlexDC.com](https://alexdc.com) 🧠 - My personal hub for "Build in Public".
 
 **Past Hits & History:**
