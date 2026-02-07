@@ -30,12 +30,11 @@ I believe in **radical transparency** and "Building in Public". I share my wins,
 
 ### 🎯 Quick Links & Expertise
 - [AlexDC.com](https://alexdc.com) 🧠 - My personal hub for "Build in Public".
-- **Music:** <a href="https://www.domestika.org/es/courses/dj" target="_blank">DJ Course on Domestika</a> - Professional mixing & production.
 - **Philosophy:** make things happen
 
 **Past Hits & History:**
 - [Tattoow](https://www.tattoow.com/) 🎨 - Online tattoo platform.
 - **Fresqui** 🗞️ - The first Web 2.0 investment in Spain (Tech history!).
-- **Music Career** 🎵 - Performed in +12 countries & top venues (Pacha, Real Madrid (Vip hospitality).
+- **Music Career** 🎵 - <a href="https://www.domestika.org/es/courses/dj" target="_blank">DJ Course on Domestika</a> - Professional mixing & production. Performed in +12 countries & top venues (Pacha, Real Madrid (Vip hospitality).
 
 
