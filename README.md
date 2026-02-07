@@ -4,11 +4,9 @@
 ![](https://img.shields.io/badge/-Indie_Hacker-000?style=flat-square&logo=hackthebox&logoColor=white)
 ![](https://img.shields.io/badge/-AI_Strategist-FF6F00?style=flat-square&logo=openai&logoColor=white)
 ![](https://img.shields.io/badge/-Next.js_Dev-000?style=flat-square&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/-Music_Producer-2088FF?style=flat-square&logo=audacity&logoColor=white)
 ![](https://img.shields.io/badge/-Indie_Hacker-000?style=flat-square&logo=hackthebox&logoColor=white)
 ![](https://img.shields.io/badge/-AI_Strategist-FF6F00?style=flat-square&logo=openai&logoColor=white)
 ![](https://img.shields.io/badge/-Next.js_Dev-000?style=flat-square&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/-Music_Producer-2088FF?style=flat-square&logo=audacity&logoColor=white)
 <!-- Contador de visitas (Opcional, estilo VietAnh) -->
 <img src="https://komarev.com/ghpvc/?username=alexdc&label=Profile%20Viewers&color=0e75b6&style=flat">
 
