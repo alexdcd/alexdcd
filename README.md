@@ -32,7 +32,7 @@ I believe in **radical transparency** and "Building in Public". I share my wins,
 ### 🚀 Featured Projects
 **Current Focus:**
 - [La Mafia IA](https://aimafia.substack.com/) 🤖 - **#1 Fastest Growing Tech Newsletter** in Spain. Curated AI resources for entrepreneurs.
-- [AlexDC.com](https://alexdc.com) 🧠 - My personal hub for "Build in Public", thoughts on Crypto, AI, and productivity.
+- [AlexDC.com](https://alexdc.com) 🧠 - My personal hub for "Build in Public".
 
 **Past Hits & History:**
 - [Tattoow](https://www.tattoow.com/) 🎨 - Online tattoo platform.
