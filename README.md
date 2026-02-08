@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/-Indie_Hacker-000?style=flat-square&logo=hackthebox&logoColor=white)
 <img src="https://komarev.com/ghpvc/?username=alexdc&label=Profile%20Viewers&color=0e75b6&style=flat">
 
-> **"Ship fast, fail faster, learn, repeat. Creating solutions to make better decisions."**
+> **"Ship fast, fail faster, repeat. Creating solutions to make better decisions."**
 
 ---
 
