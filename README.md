@@ -13,7 +13,7 @@
 ---
 
 ### ⚡ About Me
-Hey there! 👋 I'm a **Serial Indie Hacker** and **Solo Entrepreneur** based in Madrid. My journey started with my first website at age 12, and since then, I've launched **67+ projects** (most of them failed, and I document every lesson!). 
+Hey there! 👋 I'm a **Serial Indie Hacker** and **Solo Entrepreneur** based in Madrid. My journey started with my first website at age 12, and since then, I've launched **67+ projects**.
 
 When I'm not tinkering with **code**, I'm busy making AI more approachable for everyone through **La Mafia IA** — a community where I help entrepreneurs and builders cut through the noise and find the best AI tools and strategies.
 I believe in **radical transparency** and "Building in Public". I share my wins, my failures (all 67+ of them!), and everything I learn along the way to help others make better decisions.
