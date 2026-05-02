@@ -25,6 +25,7 @@ I believe in **radical transparency** and "Building in Public". I share my wins,
 - [La Mafia IA](https://aimafia.substack.com/) 🤖 - **#1 Fastest Growing Tech Newsletter** in Spain. Curated AI resources for entrepreneurs.
 - **Mafia Labs S.l:** - Shipping AI to power entrepreneurs and Open-Source neural tech.
 - [Mafia IA hub](https://mafiaia.com/) ⚒️ - AI tools for makers
+- **Memm** - A local, portable, and universal brain for you and your AI
 
 ---
 
